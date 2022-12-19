@@ -1,0 +1,15 @@
+C:\Users\aser\HOMEWORK6\bin\Debug\net6.0\HOMEWORK6.exe
+C:\Users\aser\HOMEWORK6\bin\Debug\net6.0\HOMEWORK6.deps.json
+C:\Users\aser\HOMEWORK6\bin\Debug\net6.0\HOMEWORK6.runtimeconfig.json
+C:\Users\aser\HOMEWORK6\bin\Debug\net6.0\HOMEWORK6.dll
+C:\Users\aser\HOMEWORK6\bin\Debug\net6.0\HOMEWORK6.pdb
+C:\Users\aser\HOMEWORK6\obj\Debug\net6.0\HOMEWORK6.csproj.AssemblyReference.cache
+C:\Users\aser\HOMEWORK6\obj\Debug\net6.0\HOMEWORK6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aser\HOMEWORK6\obj\Debug\net6.0\HOMEWORK6.AssemblyInfoInputs.cache
+C:\Users\aser\HOMEWORK6\obj\Debug\net6.0\HOMEWORK6.AssemblyInfo.cs
+C:\Users\aser\HOMEWORK6\obj\Debug\net6.0\HOMEWORK6.csproj.CoreCompileInputs.cache
+C:\Users\aser\HOMEWORK6\obj\Debug\net6.0\HOMEWORK6.dll
+C:\Users\aser\HOMEWORK6\obj\Debug\net6.0\refint\HOMEWORK6.dll
+C:\Users\aser\HOMEWORK6\obj\Debug\net6.0\HOMEWORK6.pdb
+C:\Users\aser\HOMEWORK6\obj\Debug\net6.0\HOMEWORK6.genruntimeconfig.cache
+C:\Users\aser\HOMEWORK6\obj\Debug\net6.0\ref\HOMEWORK6.dll
